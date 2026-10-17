@@ -1,0 +1,13 @@
+# Umgebungsvariablen
+.env
+!.env.example
+
+# Hochgeladene Dateien
+uploads/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
